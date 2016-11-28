@@ -1,0 +1,47 @@
+[
+  {
+    "code":0,
+    "message":"Unkonown error",
+    "desc":"Unknown Error"
+  },
+  {
+    "code":100,
+    "message":"Invalid Parameters",
+    "desc":"Invalid Parameters"
+  },
+  {
+    "code":200,
+    "message":"Invalid username or password",
+    "desc":"Auth Error"
+  },
+  {
+    "code":201,
+    "message":"Couldn't create token",
+    "desc":"Auth Error"
+  },
+  {
+    "code":202,
+    "message":"Invalid token",
+    "desc":"User Error"
+  },
+  {
+    "code":203,
+    "message":"Username already exist",
+    "desc":"User Error"
+  },
+  {
+    "code":300,
+    "message":"Item not found",
+    "desc":"Item Error"
+  },
+  {
+    "code":500,
+    "message":"Internal Query Error",
+    "desc":"Internal Query Error"
+  },
+  {
+    "code":999,
+    "message":"GTFO",
+    "desc":"GTFO"
+  }
+]

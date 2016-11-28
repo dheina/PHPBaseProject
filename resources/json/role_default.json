@@ -1,0 +1,12 @@
+[
+  {
+    "id":1,
+    "name"  : "Admin Panel",
+    "machine_name"  : "admin_panel"
+  },
+  {
+    "id":2,
+    "name"  : "User Management",
+    "machine_name"  : "edit_user"
+  }
+]
